@@ -1,6 +1,6 @@
 # 📊 Retail Sales Analysis Using Power BI
 ### Rhives Technologies – Internship Project (Week 2)
-**Author:** Yamsani Kalanjan (Kala)
+**Author:** Yamsani Kalanjan 
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-F2C811?style=for-the-badge&logo=powerbi)
 ![Excel](https://img.shields.io/badge/Data-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
@@ -90,7 +90,7 @@ The dataset contains **9,994 retail transactions** across multiple regions, cate
 
 ## 🙏 Acknowledgment
 Project Submitted To: **Rhives Technologies**  
-Intern: **Yamsani Kalanjan (Kala)**  
+Intern: **Yamsani Kalanjan **  
 Tool Used: **Microsoft Power BI**  
 Dataset: **Rhives_Retail_Project_DataSet.xlsm**  
 
